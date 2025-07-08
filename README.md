@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Emanuel Molla
 
-<!--
-**Emanuel-DevX/Emanuel-DevX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a backend-focused full-stack developer currently studying Computer Systems Technology at BCIT.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- 📚 BookPinion: a book review API with pagination and role-based auth
+- 🧠 DevVault: a full-stack productivity app for developers
+- 🔧 Building my portfolio at [emanuelmolla.dev](https://emanuelmolla.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+JavaScript | Node.js | Express | MongoDB | React | Tailwind | Python | C++
+
+## 📫 Let's Connect
+- 🌐 Website: [emanuelmolla.dev](https://emanuelmolla.dev)
+- 📧 Email: emanuelmolla@outlook.com
+- 📝 Blog (Coming Soon)
