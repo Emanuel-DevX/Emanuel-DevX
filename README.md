@@ -1,5 +1,3 @@
-# Emanuel Molla
-
 <div align="center">
   <img src="portfolio-screenshot.png" alt="Portfolio Landing Page" width="800"/>
 </div>
@@ -53,7 +51,7 @@ When I'm not coding, you'll find me playing chess ♟️ - always up for a game!
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmolla&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel-devx&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🎯 What's Next
