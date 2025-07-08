@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="portfolio-screenshot.png" alt="Portfolio Landing Page" width="800"/>
+  <img src="portfolio-screenshot.png" alt="Portfolio Landing Page" width="1200"/>
 </div>
 
 <div align="center">
@@ -19,9 +19,6 @@ When I'm not coding, you'll find me playing chess ♟️ - always up for a game!
 
 **🧠 DevNest** - Full-stack productivity app for developers  
 *React • Node.js • Express • MongoDB*
-
-**📚 BookPinion** - Book review API with pagination and role-based authentication  
-*Node.js • Express • MongoDB • JWT*
 
 **🌐 Portfolio** - Personal website showcasing my work  
 *React • Tailwind CSS • Modern Design*
@@ -48,11 +45,6 @@ When I'm not coding, you'll find me playing chess ♟️ - always up for a game!
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel-devx&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 🎯 What's Next
 
