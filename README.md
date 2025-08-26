@@ -45,11 +45,15 @@ When I'm not coding, you'll find me playing chess ♟️ - always up for a game!
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<!-- Overall stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emanuel-DevX&show_icons=true&include_all_commits=true&count_private=true)
+<!-- Stats (dark) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanuelmolla&show_icons=true&count_private=true&theme=github_dark&hide_border=true)
 
-<!-- Top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-DevX&layout=compact&hide=html)
+<!-- Top languages (dark, hide HTML) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmolla&layout=compact&hide=html&theme=github_dark&hide_border=true)
+
+<!-- Streaks (dark) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=emanuelmolla&theme=github-dark&hide_border=true)
+
 
 
 ## 🎯 What's Next
