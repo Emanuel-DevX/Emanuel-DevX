@@ -49,7 +49,7 @@ When I'm not coding, you'll find me playing chess ♟️ - always up for a game!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emanuel-DevX&show_icons=true&include_all_commits=true&count_private=true)
 
 <!-- Top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-DevX&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-DevX&layout=compact&hide=html)
 
 
 ## 🎯 What's Next
